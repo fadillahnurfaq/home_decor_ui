@@ -1,16 +1,27 @@
-# home_decor
+# UI Home Decor
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Link Aplikasi
+https://drive.google.com/file/d/10Nqrsjde1XDdP6h5abam0ITUEkNYGm3a/view?usp=sharing
 
-A few resources to get you started if this is your first Flutter project:
+## Splash
+![detail 1](ss/Screenshot 2025-07-16 at 13.25.32.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Introduction
+![detail 2](ss/Screenshot 2025-07-16 at 13.25.35.png)
+![detail 3](ss/Screenshot 2025-07-16 at 13.25.39.png)
+![detail 4](ss/Screenshot 2025-07-16 at 13.25.42.png)
+![detail 5](ss/Screenshot 2025-07-16 at 13.25.45.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Initial
+![detail 6](ss/Screenshot 2025-07-16 at 13.25.48.png)
+
+## Auth
+![detail 7](ss/Screenshot 2025-07-16 at 13.25.55.png)
+![detail 8](ss/Screenshot 2025-07-16 at 13.26.00.png)
+![detail 9](ss/Screenshot 2025-07-16 at 13.26.08.png)
+
+## Auth
+![detail 10](ss/Screenshot 2025-07-16 at 13.26.19.png)
+![detail 11](ss/Screenshot 2025-07-16 at 13.26.23.png)
