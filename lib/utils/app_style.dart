@@ -42,7 +42,7 @@ class AppTextStyle {
     decoration: TextDecoration.none,
     color: Colors.black,
     fontSize: 16,
-    fontWeight: bold,
+    fontWeight: semiBold,
     height: 1.2,
     fontFamily: poppins,
   );
@@ -66,6 +66,7 @@ class AppColors {
   static const Color terracotta = Color(0xFFCC7861);
   static const Color brownRosy = Color(0xFFDCBEB6);
   static const Color beige = Color(0xFFFAF0E6);
+  static const Color red = Color(0xFFFF0032);
 }
 
 class AppPadding {

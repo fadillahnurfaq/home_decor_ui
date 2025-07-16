@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:home_decor/view/auth/login_view.dart';
+import 'package:home_decor/view/auth/sign_up_view.dart';
 
 import '../gen/assets.gen.dart';
 import '../utils/app_style.dart';
@@ -34,14 +36,14 @@ class InitialView extends StatelessWidget {
             ),
             SpaceHeight(20.0),
             AppButton.filled(
-              onPressed: () {},
+              onPressed: () => Get.to(LoginView()),
               label: "Log In",
               width: Get.width / 2,
               textStyle: AppTextStyle.h2.copyWith(color: AppColors.terracotta),
             ),
             SpaceHeight(20.0),
             AppButton.filled(
-              onPressed: () {},
+              onPressed: () => Get.to(SignUpView()),
               label: "Sign Up",
               width: Get.width / 2,
               color: AppColors.beige,

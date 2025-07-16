@@ -15,6 +15,13 @@ import 'package:vector_graphics/vector_graphics.dart' as _vg;
 class $AssetsIconsGen {
   const $AssetsIconsGen();
 
+  /// File path: assets/icons/ic_bedroom.svg
+  SvgGenImage get icBedroom => const SvgGenImage('assets/icons/ic_bedroom.svg');
+
+  /// File path: assets/icons/ic_dining_room.svg
+  SvgGenImage get icDiningRoom =>
+      const SvgGenImage('assets/icons/ic_dining_room.svg');
+
   /// File path: assets/icons/ic_facebook.svg
   SvgGenImage get icFacebook =>
       const SvgGenImage('assets/icons/ic_facebook.svg');
@@ -22,16 +29,43 @@ class $AssetsIconsGen {
   /// File path: assets/icons/ic_google.svg
   SvgGenImage get icGoogle => const SvgGenImage('assets/icons/ic_google.svg');
 
+  /// File path: assets/icons/ic_kitchen_off.svg
+  SvgGenImage get icKitchenOff =>
+      const SvgGenImage('assets/icons/ic_kitchen_off.svg');
+
+  /// File path: assets/icons/ic_living_room.svg
+  SvgGenImage get icLivingRoom =>
+      const SvgGenImage('assets/icons/ic_living_room.svg');
+
+  /// File path: assets/icons/ic_office_off.svg
+  SvgGenImage get icOfficeOff =>
+      const SvgGenImage('assets/icons/ic_office_off.svg');
+
   /// List of all assets
-  List<SvgGenImage> get values => [icFacebook, icGoogle];
+  List<SvgGenImage> get values => [
+    icBedroom,
+    icDiningRoom,
+    icFacebook,
+    icGoogle,
+    icKitchenOff,
+    icLivingRoom,
+    icOfficeOff,
+  ];
 }
 
 class $AssetsImagesGen {
   const $AssetsImagesGen();
 
+  /// File path: assets/images/ads_1.png
+  AssetGenImage get ads1 => const AssetGenImage('assets/images/ads_1.png');
+
   /// File path: assets/images/app_logo.png
   AssetGenImage get appLogo =>
       const AssetGenImage('assets/images/app_logo.png');
+
+  /// File path: assets/images/best_seller.png
+  AssetGenImage get bestSeller =>
+      const AssetGenImage('assets/images/best_seller.png');
 
   /// File path: assets/images/intro_1.png
   AssetGenImage get intro1 => const AssetGenImage('assets/images/intro_1.png');
@@ -48,14 +82,31 @@ class $AssetsImagesGen {
   /// File path: assets/images/logo.png
   AssetGenImage get logo => const AssetGenImage('assets/images/logo.png');
 
+  /// File path: assets/images/new_coll1.png
+  AssetGenImage get newColl1 =>
+      const AssetGenImage('assets/images/new_coll1.png');
+
+  /// File path: assets/images/new_coll2.png
+  AssetGenImage get newColl2 =>
+      const AssetGenImage('assets/images/new_coll2.png');
+
+  /// File path: assets/images/no_image.jpg
+  AssetGenImage get noImage =>
+      const AssetGenImage('assets/images/no_image.jpg');
+
   /// List of all assets
   List<AssetGenImage> get values => [
+    ads1,
     appLogo,
+    bestSeller,
     intro1,
     intro2,
     intro3,
     intro4,
     logo,
+    newColl1,
+    newColl2,
+    noImage,
   ];
 }
 
