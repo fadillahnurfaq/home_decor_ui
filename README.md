@@ -6,22 +6,22 @@
 https://drive.google.com/file/d/10Nqrsjde1XDdP6h5abam0ITUEkNYGm3a/view?usp=sharing
 
 ## Splash
-![detail 1](ss/Screenshot 2025-07-16 at 13.25.32.png)
+![detail 1](ss/ss1.png)
 
 ## Introduction
-![detail 2](ss/Screenshot 2025-07-16 at 13.25.35.png)
-![detail 3](ss/Screenshot 2025-07-16 at 13.25.39.png)
-![detail 4](ss/Screenshot 2025-07-16 at 13.25.42.png)
-![detail 5](ss/Screenshot 2025-07-16 at 13.25.45.png)
+![detail 2](ss/ss2.png)
+![detail 3](ss/ss3.png)
+![detail 4](ss/ss4.png)
+![detail 5](ss/ss5.png)
 
 ## Initial
-![detail 6](ss/Screenshot 2025-07-16 at 13.25.48.png)
+![detail 6](ss/ss6.png)
 
 ## Auth
-![detail 7](ss/Screenshot 2025-07-16 at 13.25.55.png)
-![detail 8](ss/Screenshot 2025-07-16 at 13.26.00.png)
-![detail 9](ss/Screenshot 2025-07-16 at 13.26.08.png)
+![detail 7](ss/ss7.png)
+![detail 8](ss/ss8.png)
+![detail 9](ss/ss9.png)
 
 ## Auth
-![detail 10](ss/Screenshot 2025-07-16 at 13.26.19.png)
-![detail 11](ss/Screenshot 2025-07-16 at 13.26.23.png)
+![detail 10](ss/ss10.png)
+![detail 11](ss/ss11.png)
